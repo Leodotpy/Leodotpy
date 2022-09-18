@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leodotpy&label=Profile%20views&color=0e75b6&style=flat" alt="leodotpy" /> </p>
 
-- 🔭 I’m currently working on [MPV Subs Styles](https://github.com/Leodotpy/mpv-subs-styles)
+- 🔭 I’m currently working on [cli-fun](https://github.com/Leodotpy/cli-fun)
 
 - 🌱 I’m currently learning **AI with Python and interface design with CSS**
 
