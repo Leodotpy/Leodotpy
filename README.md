@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leodotpy&label=Profile%20views&color=0e75b6&style=flat" alt="leodotpy" /> </p>
 
-- 🔭 I’m currently working on [sd-pixel](https://github.com/Leodotpy/sd-pixel)
+- 🔭 I’m currently working on [Pic To Pixel](https://github.com/Leodotpy/PicToPixel)
 
 - 🌱 I’m currently learning **AI with Python and interface design with CSS**
 
